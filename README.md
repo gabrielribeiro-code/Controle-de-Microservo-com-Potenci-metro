@@ -6,7 +6,7 @@ Discente: Gabriel Maciel Ribeiro
 
 Docente: Amanda Paul Dull
 
-[![Simular no Tinkercad][[[https://www.tinkercad.com/things/0dNkUfwLUEB/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits](https://www.tinkercad.com/things/ezyH0sJcKoh-atividade-01-led](https://www.tinkercad.com/things/hvHOoKUMN40-atividade-com-potenciometro)))
+[![Simular no Tinkercad][[[https://www.tinkercad.com/things/0dNkUfwLUEB/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits](https://www.tinkercad.com/things/hvHOoKUMN40-atividade-com-potenciometro)))
 
 ## Enunciado:Atividade Microservo
 
