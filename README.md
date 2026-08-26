@@ -1,18 +1,16 @@
 # Controle-de-Microservo-com-Potenci-metro
 
-# iot-ATIVIDADE 01-repositorio
+# iot-ATIVIDADE de controle de microservo
 
 Discente: Gabriel Maciel Ribeiro
 
 Docente: Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
+[![Simular no Tinkercad][[[https://www.tinkercad.com/things/0dNkUfwLUEB/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits](https://www.tinkercad.com/things/ezyH0sJcKoh-atividade-01-led](https://www.tinkercad.com/things/hvHOoKUMN40-atividade-com-potenciometro)))
 
-[![Simular no Tinkercad][[https://www.tinkercad.com/things/0dNkUfwLUEB/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits](https://www.tinkercad.com/things/ezyH0sJcKoh-atividade-01-led))
+## Enunciado:Atividade Microservo
 
-## Enunciado:Atividade 01 - LED
-
-O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
+O projeto utilizara um microservo
 
 - O Arduino lê o estado do botão pelo **pino 7**
 - Controla o LED pelo **pino 10**
