@@ -10,10 +10,7 @@ Docente: Amanda Paul Dull
 
 ## Enunciado:Atividade Microservo
 
-O projeto utilizara um microservo
-
-- O Arduino lê o estado do botão pelo **pino 7**
-- Controla o LED pelo **pino 10**
+O projeto utilizara um potenciometro para fazer girar o micro servo, o potenciometro serve principalmente para sistemas que precisam medir temperaturas entre outras muitas coisas.
 
 ## Materiais necessários
 
@@ -22,11 +19,9 @@ O projeto utilizara um microservo
 | 1 | Placa Arduino UNO |
 | 1 | Cabo USB |
 | 1 | Protoboard |
-| 1 | Resistor de 200 Ω ou 220 Ω |
-| 1 | Resistor de 10 kΩ |
-| 1 | Botão tipo push button |
-| 1 | LED vermelho difuso de 5 mm |
-| — | Fios de jumper macho-macho |
+| 1 | Potenciômetro |
+| 1 | Micro servo |
+| 11 | Fios de jumper macho-macho |
 
 
 IMAGEM: <img width="1044" height="749" alt="image" src="https://github.com/user-attachments/assets/3bb8a37f-ae27-4928-bf90-b6a01815e75b" />
